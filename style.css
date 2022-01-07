@@ -239,13 +239,14 @@ ul li
 footer
 {
     position: relative;
-    width: 100%;
+    width: 90%;
     background: #d3dddd;
     min-height: 100px;
-    padding: 20px 50px;
+    padding: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
+    margin: 50px;
 }
 .logos
 {
